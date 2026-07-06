@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi i am in test1
+=======
+hi i am in test2
+
+>>>>>>> test2
